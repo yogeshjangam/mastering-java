@@ -13,14 +13,17 @@ public class LearnCodeBlocksChallenge {
             System.out.println("Your final score is " + finalScore);
         }
 
-        score = 10000;
-        levelCompleted = 8;
-        bonus = 200;
+        boolean newGameOver = true;
+        int newScore = 10000;
+        int newLevelCompleted = 8;
+        int newBonus = 200;
+        int newFinalScore = score;
+
 
         // Scenario 2
-        if (gameOver) {
-            finalScore += levelCompleted * bonus;
-            System.out.println("Your final score now is " + finalScore);
+        if (newGameOver) {
+            newFinalScore += newLevelCompleted * newBonus;
+            System.out.println("Your final score *new* is " + newFinalScore);
         }
 
     }
