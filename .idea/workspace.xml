@@ -4,18 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e518732-d776-4451-809d-60b2600c2814" name="Changes" comment="3-learning-logical-and-ternary-operators &#10;minor fixes">
-      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
+    <list default="true" id="5e518732-d776-4451-809d-60b2600c2814" name="Changes" comment="3-learning-logical-and-ternary-operators &#10;fixed for operator precedence">
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="MJ-1-changing-code-in-intellij" />
+        <entry key="$PROJECT_DIR$" value="3-learning-logical-and-ternary-operators" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -194,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671982334362</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="3-learning-logical-and-ternary-operators &#10;fixed for operator precedence">
+      <created>1671982418680</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1671982418680</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -223,7 +239,8 @@
     <MESSAGE value="3-learning-logical-and-ternary-operators &#10;learning ternary (?) operator" />
     <MESSAGE value="3-learning-logical-and-ternary-operators &#10;exercise of using ternary in double operations" />
     <MESSAGE value="3-learning-logical-and-ternary-operators &#10;minor fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="3-learning-logical-and-ternary-operators &#10;minor fixes" />
+    <MESSAGE value="3-learning-logical-and-ternary-operators &#10;fixed for operator precedence" />
+    <option name="LAST_COMMIT_MESSAGE" value="3-learning-logical-and-ternary-operators &#10;fixed for operator precedence" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
