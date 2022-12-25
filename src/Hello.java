@@ -36,12 +36,26 @@ public class Hello {
         String makeOfCar = "Volkswagen";
         boolean isDomestic = (makeOfCar == "Volkswagen") ? false : true;
 
-        if(isDomestic){
+        if (isDomestic) {
             System.out.println("This car is domestic to our country");
         }
 
         String s = (isDomestic) ? "This car is domestic." : "This car is not domestic";
         System.out.println(s);
 
+        double a = 20.00D;
+        double b = 80.00D;
+        double c = (a + b) * 100;
+        double rem = c % 40.00;
+        System.out.println("Remainder is " + rem);
+
+        boolean isRemaining = (rem == 0.0) ? true : false;
+        System.out.println(isRemaining);
+        if (isRemaining) {
+            System.out.println("Operations remainder is zero");
+
+        } else {
+            System.out.println("Operations remainder is not zero");
+        }
     }
 }
