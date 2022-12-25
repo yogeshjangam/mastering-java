@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e518732-d776-4451-809d-60b2600c2814" name="Changes" comment="update topscore to 81">
+    <list default="true" id="5e518732-d776-4451-809d-60b2600c2814" name="Changes" comment="3-learning-logical-and-ternary-operators &#10;grouped left and right ops">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
     </list>
@@ -20,6 +20,25 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="yogeshjangam" />
+        <option name="repository" value="mastering-java" />
+      </RepoCoordinatesHolder>
+    </option>
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="fcb35087-8d07-4a5b-987e-f963a06c11b1" />
+        <option name="url" value="https://github.com/yogeshjangam/mastering-java.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -81,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671976940348</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3-learning-logical-and-ternary-operators &#10;grouped left and right ops">
+      <created>1671977040463</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671977040463</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +125,7 @@
     <MESSAGE value="changing hello world comment" />
     <MESSAGE value="learnt &amp;&amp; operators" />
     <MESSAGE value="update topscore to 81" />
-    <option name="LAST_COMMIT_MESSAGE" value="update topscore to 81" />
+    <MESSAGE value="3-learning-logical-and-ternary-operators &#10;grouped left and right ops" />
+    <option name="LAST_COMMIT_MESSAGE" value="3-learning-logical-and-ternary-operators &#10;grouped left and right ops" />
   </component>
 </project>
