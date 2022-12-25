@@ -9,7 +9,7 @@ public class LearnCodeBlocksChallenge {
         int finalScore = score;
 
 
-        calculateScore();
+        calculateScore(true, 800, 5, 100);
 
      /*   if (gameOver) {
             finalScore += levelCompleted * bonus;
@@ -40,11 +40,11 @@ public class LearnCodeBlocksChallenge {
 
     }
 
-    public static void calculateScore() {
-        boolean gameOver = true;
+    public static void calculateScore(boolean gameOver, int score, int levelCompleted, int bonus) {
+/*        boolean gameOver = true;
         int score = 800;
         int levelCompleted = 5;
-        int bonus = 100;
+        int bonus = 100;*/
         int finalScore = score;
 
         if (gameOver) {
