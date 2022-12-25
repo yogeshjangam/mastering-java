@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e518732-d776-4451-809d-60b2600c2814" name="Changes" comment="changing hello world comment">
+    <list default="true" id="5e518732-d776-4451-809d-60b2600c2814" name="Changes" comment="update topscore to 81">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
     </list>
@@ -67,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671888289398</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="learnt &amp;&amp; operators">
+      <created>1671976552542</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671976552542</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update topscore to 81">
+      <created>1671976940348</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671976940348</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +97,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changing hello world comment" />
-    <option name="LAST_COMMIT_MESSAGE" value="changing hello world comment" />
+    <MESSAGE value="learnt &amp;&amp; operators" />
+    <MESSAGE value="update topscore to 81" />
+    <option name="LAST_COMMIT_MESSAGE" value="update topscore to 81" />
   </component>
 </project>
