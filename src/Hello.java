@@ -43,10 +43,11 @@ public class Hello {
         String s = (isDomestic) ? "This car is domestic." : "This car is not domestic";
         System.out.println(s);
 
-        double a = 20.00D;
-        double b = 80.00D;
-        double c = (a + b) * 100;
-        double rem = c % 40.00;
+        double a = 20.00d;
+        double b = 80.00d;
+        double c = a + b * 100;
+        System.out.println("Total is "+ c);
+        double rem = c % 40.00d;
         System.out.println("Remainder is " + rem);
 
         boolean isRemaining = (rem == 0.0) ? true : false;

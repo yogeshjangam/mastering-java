@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e518732-d776-4451-809d-60b2600c2814" name="Changes" comment="3-learning-logical-and-ternary-operators &#10;learning ternary (?) operator">
+    <list default="true" id="5e518732-d776-4451-809d-60b2600c2814" name="Changes" comment="3-learning-logical-and-ternary-operators &#10;exercise of using ternary in double operations">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
     </list>
@@ -181,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671979322929</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="3-learning-logical-and-ternary-operators &#10;exercise of using ternary in double operations">
+      <created>1671980807538</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1671980807538</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,7 +215,8 @@
     <MESSAGE value="3-learning-logical-and-ternary-operators &#10;using the boolean var directly" />
     <MESSAGE value="3-learning-logical-and-ternary-operators &#10;added .idea files back" />
     <MESSAGE value="3-learning-logical-and-ternary-operators &#10;learning ternary (?) operator" />
-    <option name="LAST_COMMIT_MESSAGE" value="3-learning-logical-and-ternary-operators &#10;learning ternary (?) operator" />
+    <MESSAGE value="3-learning-logical-and-ternary-operators &#10;exercise of using ternary in double operations" />
+    <option name="LAST_COMMIT_MESSAGE" value="3-learning-logical-and-ternary-operators &#10;exercise of using ternary in double operations" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
