@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e518732-d776-4451-809d-60b2600c2814" name="Changes" comment="3-learning-logical-and-ternary-operators &#10;fixed for operator precedence">
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="5e518732-d776-4451-809d-60b2600c2814" name="Changes" comment="4-expressions-statements&#10;using and outputting">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671982418680</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="4-expressions-statements&#10;using and outputting">
+      <created>1671984513402</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1671984513402</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -240,7 +246,8 @@
     <MESSAGE value="3-learning-logical-and-ternary-operators &#10;exercise of using ternary in double operations" />
     <MESSAGE value="3-learning-logical-and-ternary-operators &#10;minor fixes" />
     <MESSAGE value="3-learning-logical-and-ternary-operators &#10;fixed for operator precedence" />
-    <option name="LAST_COMMIT_MESSAGE" value="3-learning-logical-and-ternary-operators &#10;fixed for operator precedence" />
+    <MESSAGE value="4-expressions-statements&#10;using and outputting" />
+    <option name="LAST_COMMIT_MESSAGE" value="4-expressions-statements&#10;using and outputting" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
