@@ -45,7 +45,7 @@ public class Hello {
 
         double a = 20.00d;
         double b = 80.00d;
-        double c = a + b * 100;
+        double c = (a + b) * 100;
         System.out.println("Total is "+ c);
         double rem = c % 40.00d;
         System.out.println("Remainder is " + rem);
