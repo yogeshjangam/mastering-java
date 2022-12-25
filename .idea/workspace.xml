@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e518732-d776-4451-809d-60b2600c2814" name="Changes" comment="update topscore to 81">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5e518732-d776-4451-809d-60b2600c2814" name="Changes" comment="3-learning-logical-and-ternary-operators &#10;minor fixes">
       <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +20,25 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="recentNewPullRequestHead">
+      <RepoCoordinatesHolder>
+        <option name="owner" value="yogeshjangam" />
+        <option name="repository" value="mastering-java" />
+      </RepoCoordinatesHolder>
+    </option>
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="fcb35087-8d07-4a5b-987e-f963a06c11b1" />
+        <option name="url" value="https://github.com/yogeshjangam/mastering-java.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -30,13 +48,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/yoges/My Drive/YJ/src/github/mastering-java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/yoges/My Drive/YJ/src/github/mastering-java",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
@@ -81,7 +103,98 @@
       <option name="project" value="LOCAL" />
       <updated>1671976940348</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3-learning-logical-and-ternary-operators &#10;grouped left and right ops">
+      <created>1671977040463</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671977040463</updated>
+    </task>
+    <task id="LOCAL-00005" summary="3-learning-logical-and-ternary-operators &#10;fix one suggestion">
+      <created>1671977504507</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671977504507</updated>
+    </task>
+    <task id="LOCAL-00006" summary="3-learning-logical-and-ternary-operators &#10;learn or (||) operator">
+      <created>1671978159465</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671978159465</updated>
+    </task>
+    <task id="LOCAL-00007" summary="3-learning-logical-and-ternary-operators &#10;learn or (||) operator">
+      <created>1671978601670</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1671978601670</updated>
+    </task>
+    <task id="LOCAL-00008" summary="3-learning-logical-and-ternary-operators &#10;difference between = and ==">
+      <created>1671978632900</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1671978632900</updated>
+    </task>
+    <task id="LOCAL-00009" summary="3-learning-logical-and-ternary-operators &#10;difference between = and == but with boolean op">
+      <created>1671978729558</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1671978729558</updated>
+    </task>
+    <task id="LOCAL-00010" summary="3-learning-logical-and-ternary-operators &#10;fixed by using ==">
+      <created>1671978795828</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1671978795828</updated>
+    </task>
+    <task id="LOCAL-00011" summary="3-learning-logical-and-ternary-operators &#10;using the boolean var directly">
+      <created>1671978827192</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1671978827192</updated>
+    </task>
+    <task id="LOCAL-00012" summary="3-learning-logical-and-ternary-operators &#10;added .idea files back">
+      <created>1671978868887</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1671978868887</updated>
+    </task>
+    <task id="LOCAL-00013" summary="3-learning-logical-and-ternary-operators &#10;learning ternary (?) operator">
+      <created>1671979234760</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1671979234760</updated>
+    </task>
+    <task id="LOCAL-00014" summary="3-learning-logical-and-ternary-operators &#10;learning ternary (?) operator">
+      <created>1671979322929</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1671979322929</updated>
+    </task>
+    <task id="LOCAL-00015" summary="3-learning-logical-and-ternary-operators &#10;exercise of using ternary in double operations">
+      <created>1671980807538</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1671980807538</updated>
+    </task>
+    <task id="LOCAL-00016" summary="3-learning-logical-and-ternary-operators &#10;minor fixes">
+      <created>1671982334362</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1671982334362</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,6 +212,21 @@
     <MESSAGE value="changing hello world comment" />
     <MESSAGE value="learnt &amp;&amp; operators" />
     <MESSAGE value="update topscore to 81" />
-    <option name="LAST_COMMIT_MESSAGE" value="update topscore to 81" />
+    <MESSAGE value="3-learning-logical-and-ternary-operators &#10;grouped left and right ops" />
+    <MESSAGE value="3-learning-logical-and-ternary-operators &#10;fix one suggestion" />
+    <MESSAGE value="3-learning-logical-and-ternary-operators &#10;learn or (||) operator" />
+    <MESSAGE value="3-learning-logical-and-ternary-operators &#10;difference between = and ==" />
+    <MESSAGE value="3-learning-logical-and-ternary-operators &#10;difference between = and == but with boolean op" />
+    <MESSAGE value="3-learning-logical-and-ternary-operators &#10;fixed by using ==" />
+    <MESSAGE value="3-learning-logical-and-ternary-operators &#10;using the boolean var directly" />
+    <MESSAGE value="3-learning-logical-and-ternary-operators &#10;added .idea files back" />
+    <MESSAGE value="3-learning-logical-and-ternary-operators &#10;learning ternary (?) operator" />
+    <MESSAGE value="3-learning-logical-and-ternary-operators &#10;exercise of using ternary in double operations" />
+    <MESSAGE value="3-learning-logical-and-ternary-operators &#10;minor fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="3-learning-logical-and-ternary-operators &#10;minor fixes" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
