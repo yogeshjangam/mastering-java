@@ -17,6 +17,13 @@ public class LearnCodeBlocksChallenge {
         System.out.println("The next high score is " +
                 calculateScore(gameOver, score, levelCompleted, bonus));
 
+
+        displayHighScorePosition("Tim", calculateHighScorePosition(1500));
+        displayHighScorePosition("Robert", calculateHighScorePosition(1000));
+        displayHighScorePosition("Peears", calculateHighScorePosition(500));
+        displayHighScorePosition("James", calculateHighScorePosition(100));
+        displayHighScorePosition("Dumpy", calculateHighScorePosition(25));
+
      /*   if (gameOver) {
             finalScore += levelCompleted * bonus;
             System.out.println("Your final score is " + finalScore);
@@ -34,7 +41,7 @@ public class LearnCodeBlocksChallenge {
 //            newFinalScore += newLevelCompleted * newBonus;
 //            System.out.println("Your final score *new* is " + newFinalScore);
 //        }
-   }
+    }
 
     public static int calculateScore(boolean gameOver, int score, int levelCompleted, int bonus) {
 /*        boolean gameOver = true;
@@ -49,7 +56,25 @@ public class LearnCodeBlocksChallenge {
             //System.out.println("Your final score is " + finalScore);
         }
 
-        return  finalScore;
+        return finalScore;
 
+    }
+
+    public static void displayHighScorePosition(String name, int position) {
+        System.out.println(name + " managed to get into position " + position + " on the high score list.");
+
+    }
+
+    public static int calculateHighScorePosition(int score) {
+        int position = 4;
+
+        if (score >= 1000) {
+            position = 1;
+        } else if (score >= 500) {
+            position = 2;
+        } else if (score >= 100) {
+            position = 3;
+        }
+        return position;
     }
 }
