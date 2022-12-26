@@ -1,9 +1,8 @@
 public class LearnMethodOverloading {
     public static void main(String[] args) {
-        int newScore = calculateScore("Time", 500);
-        calculateScore(75);
-        calculateScore();
-        System.out.println("New score is "+ newScore);
+
+        System.out.println("New score is "+ calculateScore("Tim",500));
+        System.out.println("New score is "+ calculateScore(75));
     }
 
     public static int calculateScore(String name, int score) {
@@ -12,8 +11,8 @@ public class LearnMethodOverloading {
     }
 
     public static int calculateScore(int score) {
-        System.out.println("Unnamed player scored " + score + " points.");
-        return score * 1000;
+
+        return calculateScore("Unnamed", score);
     }
 
     public static int calculateScore()
