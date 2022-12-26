@@ -9,11 +9,13 @@ public class LearnCodeBlocksChallenge {
         int finalScore = score;
 
 
-        calculateScore(gameOver, score, levelCompleted, bonus);
+        int highScore = calculateScore(gameOver, score, levelCompleted, bonus);
+        System.out.println("The high score is " + highScore);
         score = 10000;
         levelCompleted = 8;
         bonus = 200;
-        calculateScore(gameOver, score, levelCompleted, bonus);
+        System.out.println("The next high score is " +
+                calculateScore(gameOver, score, levelCompleted, bonus));
 
      /*   if (gameOver) {
             finalScore += levelCompleted * bonus;
@@ -34,7 +36,7 @@ public class LearnCodeBlocksChallenge {
 //        }
    }
 
-    public static void calculateScore(boolean gameOver, int score, int levelCompleted, int bonus) {
+    public static int calculateScore(boolean gameOver, int score, int levelCompleted, int bonus) {
 /*        boolean gameOver = true;
         int score = 800;
         int levelCompleted = 5;
@@ -44,8 +46,10 @@ public class LearnCodeBlocksChallenge {
         if (gameOver) {
             finalScore += levelCompleted * bonus;
             finalScore += 1000;
-            System.out.println("Your final score is " + finalScore);
+            //System.out.println("Your final score is " + finalScore);
         }
+
+        return  finalScore;
 
     }
 }
