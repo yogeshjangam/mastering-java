@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e518732-d776-4451-809d-60b2600c2814" name="Changes" comment="11-control-flow&#10;adding multiple cases">
+    <list default="true" id="5e518732-d776-4451-809d-60b2600c2814" name="Changes" comment="11-control-flow&#10;replacing with enhanced switch">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LearnControlFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LearnControlFlow.java" afterDir="false" />
     </list>
@@ -422,7 +422,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672109347568</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="11-control-flow&#10;replacing with enhanced switch">
+      <created>1672109468992</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1672109468992</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -437,7 +444,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3-learning-logical-and-ternary-operators &#10;learn or (||) operator" />
     <MESSAGE value="3-learning-logical-and-ternary-operators &#10;difference between = and ==" />
     <MESSAGE value="3-learning-logical-and-ternary-operators &#10;difference between = and == but with boolean op" />
     <MESSAGE value="3-learning-logical-and-ternary-operators &#10;fixed by using ==" />
@@ -462,7 +468,8 @@
     <MESSAGE value="11-control-flow&#10;using if statements" />
     <MESSAGE value="11-control-flow&#10;replacing with switch case" />
     <MESSAGE value="11-control-flow&#10;adding multiple cases" />
-    <option name="LAST_COMMIT_MESSAGE" value="11-control-flow&#10;adding multiple cases" />
+    <MESSAGE value="11-control-flow&#10;replacing with enhanced switch" />
+    <option name="LAST_COMMIT_MESSAGE" value="11-control-flow&#10;replacing with enhanced switch" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

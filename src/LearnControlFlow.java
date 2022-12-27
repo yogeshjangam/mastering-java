@@ -17,5 +17,23 @@ public class LearnControlFlow {
             default -> System.out.println("value was something other than 1, 2, 3, 4 or 5");
         }
 
+        String month = "October";
+        System.out.println(month + " is in " + getQuarter(month));
+
+    }
+
+    public static String getQuarter(String month) {
+
+
+        return switch (month) {
+            case "January", "February", "March" -> "Q1";
+            case "April", "May", "June" -> "Q2";
+            case "July", "August", "September" -> "Q3";
+            case "October", "November", "December" -> "Q4";
+            default -> {
+                String result = "Invalid Month";
+                yield result;
+            }
+        };
     }
 }
