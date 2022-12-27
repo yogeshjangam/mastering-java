@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e518732-d776-4451-809d-60b2600c2814" name="Changes" comment="11-control-flow&#10;using enhanced switch for NATO">
-      <change afterPath="$PROJECT_DIR$/src/LearnForLoop.java" afterDir="false" />
+    <list default="true" id="5e518732-d776-4451-809d-60b2600c2814" name="Changes" comment="11-control-flow&#10;learning for loop">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LearnControlFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LearnControlFlow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LearnForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LearnForLoop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -444,7 +443,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672111432601</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="11-control-flow&#10;learning for loop">
+      <created>1672113858274</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1672113858274</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -459,7 +465,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3-learning-logical-and-ternary-operators &#10;fixed by using ==" />
     <MESSAGE value="3-learning-logical-and-ternary-operators &#10;using the boolean var directly" />
     <MESSAGE value="3-learning-logical-and-ternary-operators &#10;added .idea files back" />
     <MESSAGE value="3-learning-logical-and-ternary-operators &#10;learning ternary (?) operator" />
@@ -484,7 +489,8 @@
     <MESSAGE value="11-control-flow&#10;replacing with enhanced switch" />
     <MESSAGE value="11-control-flow&#10;finding quarters from month" />
     <MESSAGE value="11-control-flow&#10;using enhanced switch for NATO" />
-    <option name="LAST_COMMIT_MESSAGE" value="11-control-flow&#10;using enhanced switch for NATO" />
+    <MESSAGE value="11-control-flow&#10;learning for loop" />
+    <option name="LAST_COMMIT_MESSAGE" value="11-control-flow&#10;learning for loop" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
