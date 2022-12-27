@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e518732-d776-4451-809d-60b2600c2814" name="Changes" comment="11-control-flow&#10;learning for loop">
+    <list default="true" id="5e518732-d776-4451-809d-60b2600c2814" name="Changes" comment="11-control-flow&#10;update interest by 25p increments">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LearnForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LearnForLoop.java" afterDir="false" />
     </list>
@@ -450,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672113858274</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="11-control-flow&#10;update interest by 25p increments">
+      <created>1672114232493</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1672114232493</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -465,7 +472,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3-learning-logical-and-ternary-operators &#10;using the boolean var directly" />
     <MESSAGE value="3-learning-logical-and-ternary-operators &#10;added .idea files back" />
     <MESSAGE value="3-learning-logical-and-ternary-operators &#10;learning ternary (?) operator" />
     <MESSAGE value="3-learning-logical-and-ternary-operators &#10;exercise of using ternary in double operations" />
@@ -490,7 +496,8 @@
     <MESSAGE value="11-control-flow&#10;finding quarters from month" />
     <MESSAGE value="11-control-flow&#10;using enhanced switch for NATO" />
     <MESSAGE value="11-control-flow&#10;learning for loop" />
-    <option name="LAST_COMMIT_MESSAGE" value="11-control-flow&#10;learning for loop" />
+    <MESSAGE value="11-control-flow&#10;update interest by 25p increments" />
+    <option name="LAST_COMMIT_MESSAGE" value="11-control-flow&#10;update interest by 25p increments" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
