@@ -11,6 +11,19 @@ public class LearnForLoop {
 
             for (int i = 0; i < 19; i++) {
                 System.out.println(i + " is" + (isPrime(i) ? " " : " NOT ") + "a prime number");
+            }
+
+            //find first 3 primes in a range and exit
+            int maxPrimeCount = 3;
+            int primeCount = 1;
+
+            for (int i = 4; i < 100; i++) {
+                if (primeCount == maxPrimeCount) {break;}
+                if (isPrime(i))
+                {
+                    System.out.println("Found prime #"+primeCount+" is "+i);
+                    primeCount++;
+                }
 
             }
         }
