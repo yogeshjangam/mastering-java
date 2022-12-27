@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e518732-d776-4451-809d-60b2600c2814" name="Changes" comment="11-control-flow&#10;finding quarters from month">
+    <list default="true" id="5e518732-d776-4451-809d-60b2600c2814" name="Changes" comment="11-control-flow&#10;using enhanced switch for NATO">
+      <change afterPath="$PROJECT_DIR$/src/LearnForLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LearnControlFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LearnControlFlow.java" afterDir="false" />
     </list>
@@ -73,16 +74,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LearnControlFlow">
+  <component name="RunManager" selected="Application.LearnForLoop">
     <configuration name="build-for-github" type="AntRunConfiguration">
       <antsettings antfile="file://$PROJECT_DIR$/build.xml" target="clean" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hello" />
-      <module name="mastering-java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -108,6 +102,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LearnForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LearnForLoop" />
+      <module name="mastering-java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LearnMethodOverloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LearnMethodOverloading" />
       <module name="mastering-java" />
@@ -118,18 +119,18 @@
     <list>
       <item itemvalue="Ant Target.build-for-github" />
       <item itemvalue="Application.LearnControlFlow" />
-      <item itemvalue="Application.Hello" />
+      <item itemvalue="Application.LearnForLoop" />
       <item itemvalue="Application.LearnCodeBlocks" />
       <item itemvalue="Application.LearnCodeBlocksChallenge" />
       <item itemvalue="Application.LearnMethodOverloading" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LearnForLoop" />
         <item itemvalue="Application.LearnControlFlow" />
         <item itemvalue="Application.LearnMethodOverloading" />
         <item itemvalue="Application.LearnCodeBlocksChallenge" />
         <item itemvalue="Application.LearnCodeBlocks" />
-        <item itemvalue="Application.Hello" />
       </list>
     </recent_temporary>
   </component>
@@ -436,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672111077037</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="11-control-flow&#10;using enhanced switch for NATO">
+      <created>1672111432601</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1672111432601</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -451,7 +459,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3-learning-logical-and-ternary-operators &#10;difference between = and == but with boolean op" />
     <MESSAGE value="3-learning-logical-and-ternary-operators &#10;fixed by using ==" />
     <MESSAGE value="3-learning-logical-and-ternary-operators &#10;using the boolean var directly" />
     <MESSAGE value="3-learning-logical-and-ternary-operators &#10;added .idea files back" />
@@ -476,7 +483,8 @@
     <MESSAGE value="11-control-flow&#10;adding multiple cases" />
     <MESSAGE value="11-control-flow&#10;replacing with enhanced switch" />
     <MESSAGE value="11-control-flow&#10;finding quarters from month" />
-    <option name="LAST_COMMIT_MESSAGE" value="11-control-flow&#10;finding quarters from month" />
+    <MESSAGE value="11-control-flow&#10;using enhanced switch for NATO" />
+    <option name="LAST_COMMIT_MESSAGE" value="11-control-flow&#10;using enhanced switch for NATO" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

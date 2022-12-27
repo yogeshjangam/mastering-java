@@ -32,10 +32,7 @@ public class LearnControlFlow {
             case "April", "May", "June" -> "Q2";
             case "July", "August", "September" -> "Q3";
             case "October", "November", "December" -> "Q4";
-            default -> {
-                String result = "Invalid Month";
-                yield result;
-            }
+            default -> "Invalid Month";
         };
     }
 
@@ -48,6 +45,5 @@ public class LearnControlFlow {
             case 'e', 'E' -> "Easy";
             default -> "Letter " + input + " was not found";
         };
-
     }
 }
