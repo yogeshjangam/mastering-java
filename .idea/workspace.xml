@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e518732-d776-4451-809d-60b2600c2814" name="Changes" comment="11-control-flow&#10;update interest by 25p increments">
+    <list default="true" id="5e518732-d776-4451-809d-60b2600c2814" name="Changes" comment="11-control-flow&#10;added break">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LearnForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LearnForLoop.java" afterDir="false" />
     </list>
@@ -457,7 +457,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672114232493</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="11-control-flow&#10;added break">
+      <created>1672119109245</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1672119109245</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -472,7 +479,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3-learning-logical-and-ternary-operators &#10;added .idea files back" />
     <MESSAGE value="3-learning-logical-and-ternary-operators &#10;learning ternary (?) operator" />
     <MESSAGE value="3-learning-logical-and-ternary-operators &#10;exercise of using ternary in double operations" />
     <MESSAGE value="3-learning-logical-and-ternary-operators &#10;minor fixes" />
@@ -497,7 +503,19 @@
     <MESSAGE value="11-control-flow&#10;using enhanced switch for NATO" />
     <MESSAGE value="11-control-flow&#10;learning for loop" />
     <MESSAGE value="11-control-flow&#10;update interest by 25p increments" />
-    <option name="LAST_COMMIT_MESSAGE" value="11-control-flow&#10;update interest by 25p increments" />
+    <MESSAGE value="11-control-flow&#10;added break" />
+    <option name="LAST_COMMIT_MESSAGE" value="11-control-flow&#10;added break" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LearnForLoop.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

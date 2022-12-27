@@ -8,11 +8,27 @@ public class LearnForLoop {
                 break;
             }
             System.out.println("100 at " + rate + "% interest rate is " + calculateInterest(100, rate));
+
+            for (int i = 0; i < 19; i++) {
+                System.out.println(i + " is" + (isPrime(i) ? " " : " NOT ") + "a prime number");
+
+            }
         }
 
     }
 
     public static double calculateInterest(double amount, double interestRate) {
         return (amount * (interestRate / 100));
+    }
+
+    public static boolean isPrime(int number) {
+        if (number <= 2) return (number == 2);
+        for (int d = 2; d <= number / 2; d++) {
+            if (number % d == 0) {
+                return false;
+            }
+        }
+        return true;
+
     }
 }
