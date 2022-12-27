@@ -1,6 +1,6 @@
 public class LearnControlFlow {
     public static void main(String[] args) {
-        int value = 2;
+        int value = 4;
 
 /*        if (value == 1) {
             System.out.println("value was 1");
@@ -17,8 +17,10 @@ public class LearnControlFlow {
             case 2:
                 System.out.println("value was 2");
                 break;
+            case 3: case 4: case 5:
+                System.out.println("was a 3 or 4 or 5,\nActually was a "+ value);
             default:
-                System.out.println("value was something other than 1 or 2");
+                System.out.println("value was something other than 1, 2, 3, 4 or 5");
         }
 
     }
