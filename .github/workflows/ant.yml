@@ -5,9 +5,9 @@ name: Java CI
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "10-adding-ant-integration-and-using-github-actions" ]
   pull_request:
-    branches: [ "master" ]
+    branches: [ "10-adding-ant-integration-and-using-github-actions" ]
 
 jobs:
   build:
