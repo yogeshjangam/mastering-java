@@ -20,6 +20,8 @@ public class LearnControlFlow {
         String month = "October";
         System.out.println(month + " is in " + getQuarter(month));
 
+        System.out.println(getNATO('x'));
+
     }
 
     public static String getQuarter(String month) {
@@ -35,5 +37,17 @@ public class LearnControlFlow {
                 yield result;
             }
         };
+    }
+
+    public static String getNATO(char input) {
+        return switch (input) {
+            case 'a', 'A' -> "Able";
+            case 'b', 'B' -> "Baker";
+            case 'c', 'C' -> "Charlie";
+            case 'd', 'D' -> "Dog";
+            case 'e', 'E' -> "Easy";
+            default -> "Letter " + input + " was not found";
+        };
+
     }
 }
