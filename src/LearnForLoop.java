@@ -18,16 +18,15 @@ public class LearnForLoop {
             int primeCount = 1;
 
             for (int i = 4; i < 100; i++) {
-                if (primeCount == maxPrimeCount) {break;}
-                if (isPrime(i))
-                {
-                    System.out.println("Found prime #"+primeCount+" is "+i);
+                if (primeCount == maxPrimeCount) {
+                    break;
+                }
+                if (isPrime(i)) {
+                    System.out.println("Found prime #" + primeCount + " is " + i);
                     primeCount++;
                 }
-
             }
         }
-
     }
 
     public static double calculateInterest(double amount, double interestRate) {
@@ -42,6 +41,5 @@ public class LearnForLoop {
             }
         }
         return true;
-
     }
 }
