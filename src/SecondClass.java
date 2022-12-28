@@ -18,5 +18,13 @@ public class SecondClass {
             System.out.println(k);
             k++;
         } while (k <= 5);
+
+        int n = 0;
+        while ( n <50)
+        {
+            n+=5;
+            if(n % 25 == 0 ) continue;
+            System.out.print(n+"_");
+        }
     }
 }
