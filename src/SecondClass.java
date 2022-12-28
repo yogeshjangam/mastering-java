@@ -43,9 +43,32 @@ public class SecondClass {
             }
         }
         System.out.println("Found " + countOfOdd + " odd numbers and " + countOfEven + " even numbers.");
+
+        System.out.println("Sum of digits 123 :" + sumDigits(123));
+        System.out.println("Sum of digits 1 :" + sumDigits(1));
+        System.out.println("Sum of digits 12 :" + sumDigits(12));
+        System.out.println("Sum of digits 145643 :" + sumDigits(14563));
+        System.out.println("Sum of digits 100 :" + sumDigits(100));
     }
 
     public static boolean isEven(int n) {
         return (n % 2 == 0);
+    }
+
+    public static int sumDigits(int number) {
+        int result = 0;
+        if (number < 0) {
+            result = -1;
+        }
+        int n = number;
+        int d = 0;
+
+        do {
+            d = n % 10;
+            result += d;
+            System.out.println("digit :" + d);
+            n = n / 10;
+        } while (n != 0);
+        return result;
     }
 }
